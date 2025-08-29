@@ -85,7 +85,6 @@ SpaceX has revolutionized commercial spaceflight by reusing rocket stages, signi
 ├── dataset_part_1.csv           # Cleaned and structured launch data
 ├── dataset_part_2.csv           # Data with landing outcome classification
 ├── dataset_part_3.csv           # One-hot encoded features for modeling
-├── spacex_web_scraped.csv       # Wikipedia-scraped launch records
 ├── SpaceX.ipynb                 # Jupyter notebook: data pipeline, EDA, modeling
 ├── spacex_dash_app.py           # Plotly Dash dashboard application
 ├── README.md                    # Project documentation
